@@ -1,0 +1,17 @@
+{
+  "name": "Tulaika: Guam Community Barter",
+  "short_name": "Tulaika",
+  "description": "Trade goods and services with neighbors across Guam, or pay a small fair price.",
+  "developer": { "name": "Makayo Bridge Services LLC" },
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F8F6",
+  "theme_color": "#0F5C63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
